@@ -1,0 +1,17 @@
+body {
+  font-family: var(--font-family);
+  font-size: var(--font-size);
+  line-height: var(--line-height);
+  border-radius: var(--border-radius);
+  background-color: var(--primary-color);
+}
+
+.button {
+  background-color: var(--primary-color);
+  color: white;
+}
+
+.alert {
+  background-color: var(--error-color);
+  color: white;
+}
